@@ -1,0 +1,1 @@
+Automatically syncs your Accepted LeetCode submissions to a GitHub repo. Detects the Accepted result, pulls your code via LeetCode's API, and commits it straight to GitHub — with an auto-updating README table of solved problems.
